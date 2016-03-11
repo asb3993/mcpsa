@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCS", "MCS\MCS.csproj", "{DC03A183-E3D9-42CA-8768-9B2EA96E7A93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCS.Tests", "MCS.Tests\MCS.Tests.csproj", "{B810DD20-D62A-444C-83F7-8E7F4F5541C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC03A183-E3D9-42CA-8768-9B2EA96E7A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC03A183-E3D9-42CA-8768-9B2EA96E7A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC03A183-E3D9-42CA-8768-9B2EA96E7A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC03A183-E3D9-42CA-8768-9B2EA96E7A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B810DD20-D62A-444C-83F7-8E7F4F5541C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B810DD20-D62A-444C-83F7-8E7F4F5541C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B810DD20-D62A-444C-83F7-8E7F4F5541C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B810DD20-D62A-444C-83F7-8E7F4F5541C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
